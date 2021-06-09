@@ -1,4 +1,4 @@
-# This is where grants applications go
+# This is where all grants applications to the Foundation should go
 
 If you want to receive a grant from the Foundation and your project checks all of these boxes, then please submit an Issue to this repository.
 
